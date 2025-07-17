@@ -1,0 +1,15 @@
+{
+  "name": "api-rest_catalogo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Javier Martinoli",
+  "license": "ISC",
+  "description": "ProyectoFinal_Back-End.Node.JS_JavierMartinoli_c25024"
+}
