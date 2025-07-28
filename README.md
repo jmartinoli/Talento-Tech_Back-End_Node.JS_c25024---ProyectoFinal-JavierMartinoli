@@ -15,7 +15,7 @@ Estas son las dependencias que se usaroin:
 - firebase: SDK para conectarse a Firestore.
 - jsonwebtoken: Para implementar autenticación con JWT.
 
-# 2- Pasos para probar funcionalidad desde la consola del proyecto (A modo recordatorio para el futuro)
+# 2- Pasos para probar funcionalidad del proyecto (A modo recordatorio para el futuro)
 
 1_ npm install
 se van a instalar automáticamente todas las dependencias necesarias.
