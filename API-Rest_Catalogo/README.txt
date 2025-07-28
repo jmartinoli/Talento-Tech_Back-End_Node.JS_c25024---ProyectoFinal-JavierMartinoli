@@ -2,6 +2,7 @@ Pasos para probar la API
 ------------------------
 
 # 1- Instalación de dependencias
+
 npm install express cors body-parser dotenv firebase jsonwebtoken
 ó 
 npm install 
@@ -15,11 +16,11 @@ Estas son las dependencias que se usaroin:
 - firebase: SDK para conectarse a Firestore.
 - jsonwebtoken: Para implementar autenticación con JWT.
 
-# 2- Pasos para probar funcionalidad desde la consola del proyecto (A modo recordatorio para el futuro)
+# 2- Pasos para probar funcionalidad del proyecto (A modo recordatorio para el futuro)
 
 1_ npm install
 se van a instalar automáticamente todas las dependencias necesarias.
-Esto comúnmente se ejecuta cuando se baja el repo de GitHub
+(Se ejecuta cuando se baja el repo de GitHub)
 
 2_ npm run start
 se debería ver:
@@ -36,8 +37,8 @@ URL: http://localhost:3000/auth/login
 Body → JSON:
 
 {
-  "email": "admin@admin.com",
-  "password": "123456"
+  "email": "a@admin.com",
+  "password": ""
 }
 
 Respuesta esperada:
