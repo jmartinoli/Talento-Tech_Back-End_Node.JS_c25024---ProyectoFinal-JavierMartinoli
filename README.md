@@ -36,8 +36,8 @@ URL: http://localhost:3000/auth/login
 Body → JSON:
 
 {
-  "email": "admin@admin.com",
-  "password": "123456"
+  "email": "a@admin.com",
+  "password": ""
 }
 
 Respuesta esperada:
